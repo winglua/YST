@@ -1432,7 +1432,7 @@ table thead tr th {
 		padding: 0; }
 		@media (max-width: 375px) {
 			.hero__container {
-				height: auto !important; } }
+				height: auto!important; } }
 	.hero__text-holder {
 		padding: 124px;
 		height: 100%;
